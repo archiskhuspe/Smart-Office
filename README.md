@@ -2,6 +2,6 @@
 
 💫 Files
 
-Cisco Packet Tracer Simulation: Project file
-Research Paper: Detailed information of the project
-Literature Survey: Analysis of different Research papers
+1. Cisco Packet Tracer Simulation: Project file
+2. Research Paper: Detailed information of the project
+3. Literature Survey: Analysis of different Research papers
